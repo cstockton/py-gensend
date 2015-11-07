@@ -189,3 +189,6 @@ Dev Install:
   $ git clone https://github.com/cstockton/py-gensend.git
   $ make build && make test
   ```
+
+## License
+gensend is availible under the [The MIT License](http://opensource.org/licenses/MIT), see the `LICENSE` file for more information.
